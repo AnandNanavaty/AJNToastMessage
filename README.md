@@ -47,6 +47,11 @@ Hello iPhonic, Here I implemented custom message class. You can just drag and dr
      
 ![alt text](https://github.com/AnandNanavaty/AJNToastMessage/blob/master/Animation_Center1.gif)
      
+     3 zoomInThenOut() // Not parameters 
+     
+     **Example is given below.**
+     
+![alt text](https://github.com/AnandNanavaty/AJNToastMessage/blob/master/Animation_Center1.gif)
      
      
      
