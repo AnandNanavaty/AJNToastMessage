@@ -1,10 +1,6 @@
 //
 //  ViewController.swift
 //  customMessage
-//
-//  Created by indianic on 15/09/17.
-//  Copyright © 2017 indianic. All rights reserved.
-//
 
 import UIKit
 
