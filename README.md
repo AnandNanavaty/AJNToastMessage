@@ -51,7 +51,7 @@ Hello iPhonic, Here I implemented custom message class. You can just drag and dr
      
      **Example is given below.**
      
-![alt text](https://github.com/AnandNanavaty/AJNToastMessage/blob/master/Animation_Center1.gif)
+![alt text](https://github.com/AnandNanavaty/AJNToastMessage/blob/master/Center_Zoom.gif)
      
      
      
