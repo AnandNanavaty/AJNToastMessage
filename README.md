@@ -1,6 +1,3 @@
-![alt text](https://github.com/AnandNanavaty/AJNToastMessage/blob/master/ezgif.com-video-to-gif.gif)
-
-
 # AJNToastMessage
 Hello iPhonic, Here I implemented custom message class. You can just drag and drop in your project and use all the methods. It is very easy and classy way.        
 
@@ -8,7 +5,7 @@ Hello iPhonic, Here I implemented custom message class. You can just drag and dr
 
 > **You have to set minimum deployment target iOS 10 and latter.**
 
-> **You can use in iPhone and iPad Application.
+> **You can use in iPhone and iPad Application.**
 
 > I am explaining you how to use...! 
 
@@ -42,13 +39,13 @@ Hello iPhonic, Here I implemented custom message class. You can just drag and dr
       
      **Example is given below.**
 
-     ![alt text](https://github.com/AnandNanavaty/AJNToastMessage/blob/master/ezgif.com-video-to-gif.gif)
+![alt text](https://github.com/AnandNanavaty/AJNToastMessage/blob/master/ezgif.com-video-to-gif.gif)
      
      2 fadeViewInThenOut() // Not parameters 
      
      **Example is given below.**
      
-     ![alt text](https://github.com/AnandNanavaty/AJNToastMessage/blob/master/ezgif.com-video-to-gif.gif)
+![alt text](https://github.com/AnandNanavaty/AJNToastMessage/blob/master/ezgif.com-video-to-gif.gif)
      
      
      
