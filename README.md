@@ -9,6 +9,22 @@ Hello iPhonic, Here I implemented custom message class. You can just drag and dr
 
 > I am explaining you how to use...! 
 
+> **In this way, you can use in your project.**
+
+    @IBAction func btnPressHereAction(_ sender: UIButton) {
+        
+        let errorText = AJNToastMessage()
+        errorText.MessageInBottom(TextMessage: "You have not verified your account, Confirmation mail has been sent to your email address.", TextColor: UIColor.white, TextFont: UIFont.systemFont(ofSize: 14), IsViewCornerRadius: true, ControllerName: self, ViewColor: UIColor.blue)
+        errorText.slideViewInThenOut(from: .bottom, to: .bottom)
+        //OR
+        errorText.fadeViewInThenOut()
+        //OR
+        errorText.zoomInThenOut()
+        //OR
+        errorText.popViewInThenOut()
+    }
+
+
 > **Position methods and it's parameters :**
 
      1. MessageInTop(TextMessage: String, TextColor: UIColor, TextFont : UIFont, IsViewCornerRadius : Bool , ControllerName : UIViewController, ViewColor : UIColor)
